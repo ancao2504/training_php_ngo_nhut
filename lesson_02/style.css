@@ -1,0 +1,39 @@
+.container {
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 30%;
+    background-color: #FECCCD;
+    width: 800px;
+    height: 200px;
+}
+
+input {
+    margin: 5px;
+    height: 20px;
+    width: 300px;
+}
+
+h1 {
+    background-color: #FD5E5B;
+    color: white;
+    padding: 10px;
+}
+
+.month-and-year {
+    width: 100px;
+}
+
+button.notification {
+    width: 100px;
+    height: 30px;
+    background-color: #0062cc;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.item-tr-result input {
+    width: 600px;
+    height: 50px;
+    text-align: center;
+}
